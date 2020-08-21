@@ -1,0 +1,24 @@
+{
+  "name": "modmailplus",
+  "version": "0.0.1",
+  "description": "A simpler and easier way to contact Discord server moderators",
+  "main": "start.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlitchMasta47/modmailplus.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "GlitchMasta47",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlitchMasta47/modmailplus/issues"
+  },
+  "homepage": "https://github.com/GlitchMasta47/modmailplus#readme"
+}
